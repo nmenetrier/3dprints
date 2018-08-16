@@ -1,0 +1,2 @@
+*.obj filter=lfs diff=lfs merge=lfs -text
+*.fcstd filter=lfs diff=lfs merge=lfs -text
